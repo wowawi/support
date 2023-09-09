@@ -1,7 +1,7 @@
-# Wrath Talent Calculator
+# Wowawi Apps
 ## Privacy Policy
 
-David Barton built the Wrath Talent Calculator app as a Commercial app. This SERVICE is provided by David Barton and is intended for use as is.
+Wowawi Apps are build as Commercial apps. The SERVICE is provided by David Barton and intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
